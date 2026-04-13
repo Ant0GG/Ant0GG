@@ -8,9 +8,7 @@ Passionate about tech, testing, and building structured workflows
 ## About Me
 
 - Currently learning Software Testing (QA) and preparing for real-world projects  
-- Transitioning into Project Management in IT  
 - Strong interest in Agile, SDLC, and product thinking  
-- Background in customer-facing roles → strong communication & teamwork  
 - Actively looking for internships / junior roles  
 
 ---
@@ -19,7 +17,7 @@ Passionate about tech, testing, and building structured workflows
 
 ### QA & Testing
 - Test Cases & Test Plans  
-- Bug Reporting (Jira style)  
+- Bug Reporting 
 - SDLC & STLC  
 - Functional & Non-functional Testing  
 - Regression & Retesting  
